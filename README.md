@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Samarth</h1>
-<h3 align="center">A passionate frontend developer and backend developer from India</h3>
+<h3 align="center">A passionate frontend developer and backend developer from Bharat(India) [image](https://github.com/AnuragSamarth/AnuragSamarth/assets/116675359/3c749f93-143a-452b-b3c9-cd7533c42826)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragsamarth&label=Profile%20views&color=0e75b6&style=flat" alt="anuragsamarth" /> </p>
 
